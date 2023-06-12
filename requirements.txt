@@ -2,4 +2,3 @@ scipy
 pandas
 statistics
 statsmodels
-math
